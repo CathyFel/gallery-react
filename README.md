@@ -1,3 +1,6 @@
-基于react的画廊项目
+基于react的图片画廊项目
 ======================
-[demo](http://htmlpreview.github.io/?https://github.com/CathyFel/gallery-react/blob/master/src/index.html)
+[demo](https://cathyfel.github.io/gallery-react/)
+* 基于慕课网的react实战视频课程
+* webpack打包
+* sass预处理
