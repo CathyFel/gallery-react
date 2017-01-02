@@ -62,7 +62,7 @@ function getDefaultModules() {
 
 module.exports = {
   srcPath: srcPath,
-  publicPath: './assets/',
+  publicPath: '/gallery-react/assets/',
   port: dfltPort,
   getDefaultModules: getDefaultModules
 };
